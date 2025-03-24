@@ -19,3 +19,5 @@ Proyek ini bertujuan untuk membuat model machine learning untuk memprediksi Exce
   Merupakan dataset baru yang digunakan untuk memprediksi Excessive Absenteeism
 - Absenteeism_Predictions.csv
   Merupakan hasil akhir prediksi model 
+- Absenteeism excercise - integration.ipynb
+  Merupakan file yang digunakan untuk mengintegrasikan dan menjalankan file absenteeism_module.py, Absenteeism_new_data.csv dan menghasilkan file Absenteeism_Predictions.csv
